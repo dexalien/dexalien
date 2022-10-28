@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dexalien
-- 👀 I’m interested in web development and app development.
+- 👀 I’m currently building my portfolio here, not much to see but interested in web development and app development.
 - 🌱 I’m currently learning software development.
 - 📫 How to reach me: caroldelaquintana@gmail.com
 
