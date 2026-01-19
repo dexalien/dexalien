@@ -12,5 +12,5 @@
 📊 Passionate about turning data into insights and creating smooth user experiences.  
 
 📫 Reach me at: 
-https://www.dextro.world/
-caroldelaquintana@gmail.com  
+https://www.dextro.world/ 
+
